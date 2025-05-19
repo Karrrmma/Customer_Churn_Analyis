@@ -8,6 +8,7 @@ A machine learning project using a Random Forest Classifier to identify potentia
 
 📦 Installation
       pip install pandas scikit-learn
+      
 💡 Potential Improvements
       Hyperparameter tuning using GridSearchCV
       Use of SMOTE or class weighting for handling imbalance
